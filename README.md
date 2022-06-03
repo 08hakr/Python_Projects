@@ -1,2 +1,2 @@
 # Python_Projects
-All Python Project
+Equation Calculator
